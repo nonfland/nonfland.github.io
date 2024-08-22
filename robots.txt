@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nonfland.github.io/sitemap.html.gz
+Sitemap: https://nonfland.github.io/app/sitemap.html.gz
+Sitemap: https://nonfland.github.io/assets/sitemap.html.gz
+Sitemap: https://nonfland.github.io/css/sitemap.html.gz
+Sitemap: https://nonfland.github.io/includes/sitemap.html.gz
+Sitemap: https://nonfland.github.io/item/sitemap.html.gz
+Sitemap: https://nonfland.github.io/src/sitemap.html.gz
